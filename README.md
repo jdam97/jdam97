@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenido a mi perfil, soy Jonathan David Alvarez Monsalve</h1>
-<h3 align="center">Hola y bienvenido a mi perfil de GitHub! Soy un apasionado programador Full Stack con un enfoque especializado en el Backend. Trabajo con tecnologías como Express para desarrollar API's eficientes y escalables. También tengo experiencia en el manejo de bases de datos como MySQL y MongoDB.
-<br>
+<p align="center">Hola y bienvenido a mi perfil de GitHub! Soy un apasionado programador Full Stack con un enfoque especializado en el Backend. Trabajo con tecnologías como Express para desarrollar API's eficientes y escalables. También tengo experiencia en el manejo de bases de datos como MySQL y MongoDB.
+<br><br>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jdam97&label=Profile%20views&color=0e75b6&style=flat" alt="jdam97" /> </p>
 
